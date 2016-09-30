@@ -1,7 +1,7 @@
 # Pull Request Template
-A Template for Creating Meaningful Pull Requests
+A [Pull Request Template](https://github.com/flexyford/pull-request-template/blob/master/README.md) for Creating Meaningful PRs
 
-Add this file [PULL_REQUEST_TEMPLATE.md](https://github.com/flexyford/pull-request-template/blob/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
+Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
 
 See here for more information on [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
