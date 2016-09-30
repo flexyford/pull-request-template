@@ -1,7 +1,7 @@
 # Pull Request Template
 A Template for Creating Meaningful Pull Requests
 
-## Pull Requests are an opportunity to teach. 
+## Pull Requests are an opportunity to teach
 A PR should not be a barrier between you and shipping code. Instead, approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that due dilligence and research has been done. The assignee is not a Gatekeeper but a collaborator. Invite them to learn and and be part of the process of shipping code.
 
 ## Active Research Document
