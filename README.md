@@ -1,7 +1,7 @@
 # Pull Request Template
 A Template for Creating Meaningful Pull Requests
 
-Add this file [PULL_REQUEST_TEMPLATE.md](https://github.com/flexyford/pull-request-template/edit/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
+Add this file [PULL_REQUEST_TEMPLATE.md](https://github.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
 
 See here for more information on [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
