@@ -1,6 +1,10 @@
 # Pull Request Template
 A Template for Creating Meaningful Pull Requests
 
+Add this file [PULL_REQUEST_TEMPLATE.md](https://github.com/flexyford/pull-request-template/edit/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
+
+See here for more information on [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
+
 ## Pull Requests are an opportunity to teach
 A PR should not be a barrier between you and shipping code. Instead, approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that due dilligence and research has been done. The assignee is not a Gatekeeper but a collaborator. Invite them to learn and and be part of the process of shipping code.
 
