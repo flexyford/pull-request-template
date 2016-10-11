@@ -16,16 +16,3 @@ _Links to blog posts, patterns, libraries or addons used to solve this problem_
 
 ### Open Questions and Pre-Merge TODOs
 - [ ] Use github checklists. When solved, check the box and explain the answer.
-
-### Test coverage 
-_Briefly describe what tests you have written and why_
-
-### Merge Dependencies and Related Work
-_link to Merge Dependency Issues or PRs_
-
-### Follow-up tasks
-[Issue #2](https://github.com/flexyford/pull-request/issues)
-
-### Screenshots
-#### Before
-#### After
