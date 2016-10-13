@@ -6,21 +6,17 @@ Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexy
 ## Purpose
 _The `Purpose` section explains 'WHAT is the problem?'_
 
-A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. Oftentimes, writing a Pull Request can feel like yet another layer of documentation that stands between the developer and shipping code. 
+A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. 
 
-**We want to make writing a Pull Request the best thing about writing software!**
-
-Okay, that's more than likely not why we got into software, but we can alleviate some of the common issues with Pull Requests.
-
-Some common issues surronding Pull Requests:
+Writing a Pull Request can feel like a hurdle that stands between the developer and shipping code. This leads to some common issues with Pull Requests:
 
 > This Pull Request . . .
 
 > - has no description
 
-> - just wordsplains the code
-
 > - does not solve the problem
+
+> - just wordsplains the code
 
 > - is way over my head
 
