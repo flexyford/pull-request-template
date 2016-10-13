@@ -3,8 +3,6 @@ A [Pull Request Template](https://github.com/flexyford/pull-request-template/blo
 
 Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
 
-See here for more information on [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-
 Let's imagine we are creating a pull request which adds a  Pull Request Template. Not only is that super meta, but it's also the structure of this README.
 
 ## Purpose
