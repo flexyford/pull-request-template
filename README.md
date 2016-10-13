@@ -5,19 +5,56 @@ Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexy
 
 See here for more information on [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates)
 
-## Pull Requests are an opportunity to teach
-A PR should not be a barrier between you and shipping code. Instead, approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that due dilligence and research has been done. The assignee is not a Gatekeeper but a collaborator. Invite them to learn and and be part of the process of shipping code.
+Let's imagine we are creating a pull request which adds a  Pull Request Template. Not only is that super meta, but it's also the structure of this README.
 
-## Active Research Document
-Like a README, a Pull Request should be updated as research reveals new information. 
+## Purpose
+_The `Purpose` section explains 'WHAT is the problem?'_
 
-### Problem
-The `Problem` section should be completed when a Pull Request is first opened. If new problems reveal themselves while writing code, it is an opportunity for a new appropriatly scoped pull request.
+A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. Oftentimes, writing a Pull Request can feel like yet another layer of documentation that stands between the developer and shipping code. We want to make this process eaiser, if not downright enjoyable.
+
+Some common issues surronding Pull Requests:
+
+> This Pull Request . . .
+
+> - has no description
+
+> - just wordsplains the code
+
+> - does not solve the problem
+
+> - is way over my head
 
 ## Approach
-- [ ] Need To Write the Approach Section
+_The `Approach` section details 'HOW the problem is solved?'_
 
-### Learning
-The `Learning` section should be an ongoing process. It should contain any libraries, blog-posts, insightful quotes, or programming patterns you used or found inspiration from during the writing of your pull request.
+This [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) adds structure to our PRs in order to solve some `common issues`
 
-_I don't have internet at Mozarts. To be continued . . ._
+### Write a Description
+> This Pull Request has no description
+
+- [ ] Write `Write a Description` Section :confounded:
+
+### Research the Problem
+> This Pull Request does not solve the problem
+
+- [ ] Write `Research the Problem` Section
+
+### Let the Code Tell Us About the Code
+> This Pull Request just wordsplains the code
+
+- [ ] Write `Let the Code Tell Us About the Code` Section
+
+### Share the Knowlege
+> This Pull Request is way over my head
+
+- [ ] Write `Share the Knowlege` Section
+
+
+Just a reminder, writing a Pull Request, like code, is a process. It requites more than one iteration to get it right.
+
+## Learning
+Approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that the developer has taken due dilligence during the research phase. The assignee is not treated as a Merge Button Gatekeeper, but a collaborator. An enlightening PR invites everyone to learn and and be part of the process of shipping code.
+
+#### Blog Posts
+- Thanks to [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates) for making this possible
+- More fine-grained reading on [Writing the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request) 
