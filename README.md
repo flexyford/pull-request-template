@@ -3,12 +3,16 @@ A [Pull Request Template](https://github.com/flexyford/pull-request-template/blo
 
 Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
 
-Let's imagine we are creating a pull request which adds a  Pull Request Template. Not only is that super meta, but it's also the structure of this README.
+Let's imagine we are creating a pull request which adds a Pull Request Template. Not only is that super meta, but it's also the structure of this README.
 
 ## Purpose
 _The `Purpose` section explains 'WHAT is the problem?'_
 
-A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. Oftentimes, writing a Pull Request can feel like yet another layer of documentation that stands between the developer and shipping code. We want to make this process eaiser, if not downright enjoyable.
+A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. Oftentimes, writing a Pull Request can feel like yet another layer of documentation that stands between the developer and shipping code. 
+
+**We want to make writing a Pull Request the best thing about writing software!**
+
+Okay, that's more than likely not why we got into software, but we can alleviate some of the common issues with Pull Requests.
 
 Some common issues surronding Pull Requests:
 
@@ -51,8 +55,11 @@ This [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull
 Just a reminder, writing a Pull Request, like code, is a process. It requites more than one iteration to get it right.
 
 ## Learning
-Approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that the developer has taken due dilligence during the research phase. The assignee is not treated as a Merge Button Gatekeeper, but a collaborator. An enlightening PR invites everyone to learn and and be part of the process of shipping code.
+_The `Learning` section explains 'WHAT I learned in boating school today is ...'_
 
-#### Blog Posts
+Approach each PR as a docuement for sharing knowledge. When we teach the assignee/reviewer through a Pull Request, we build confidence that the developer has taken due dilligence during the research phase. 
+
+The assignee is not treated as a Merge Button Gatekeeper, but a collaborator. Awell written PR invites everyone to learn and and be part of the process of shipping code.
+
 - Thanks to [Github Templates](https://github.com/blog/2111-issue-and-pull-request-templates) for making this possible
 - More fine-grained reading on [Writing the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request) 
