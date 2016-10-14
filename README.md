@@ -3,7 +3,7 @@ A [Pull Request Template](https://github.com/flexyford/pull-request-template/blo
 
 Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) to the root directory of your repository.
 
-Check out the [Pull-Request-Template Lunch and Learn Talk](https://www.youtube.com/watch?v=5aHmO_S8FQ4) presented at The Frontstide
+Check out the [Pull-Request-Template Lunch and Learn](https://www.youtube.com/watch?v=5aHmO_S8FQ4) presented at The Frontstide
 
 ## Purpose
 _The `Purpose` section explains 'WHAT is the problem?'_
