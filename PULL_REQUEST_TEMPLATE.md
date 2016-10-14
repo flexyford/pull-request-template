@@ -1,8 +1,6 @@
 ## Purpose
 _Describe the problem or feature in addition to a link to the issues._
 
-[Fixes #1](https://github.com/flexyford/pull-request/issues)
-
 ## Approach
 _How does this change address the problem?_
 
