@@ -6,7 +6,7 @@ Add this file [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexy
 Check out the [Pull-Request-Template Lunch and Learn](https://www.youtube.com/watch?v=5aHmO_S8FQ4) presented at The Frontstide
 
 ## Purpose
-_The `Purpose` section explains 'WHAT is the problem?'_
+_Describe the `Purpose` of the pull request. Include background information if necessary_
 
 A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. 
 
@@ -23,7 +23,7 @@ Writing a Pull Request can feel like a hurdle that stands between the developer 
 > - is way over my head
 
 ## Approach
-_The `Approach` section details 'HOW the problem is solved?'_
+_The `Approach` section details 'HOW does this change fulfill the purpose?'_
 
 This [PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/flexyford/pull-request-template/master/PULL_REQUEST_TEMPLATE.md) adds structure to our PRs in order to solve some `common issues`
 
